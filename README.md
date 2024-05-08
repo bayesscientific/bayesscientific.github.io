@@ -1,3 +1,3 @@
 
-[bayesscientific.github.io]
+[[bayesscientific.github.io]]
 
