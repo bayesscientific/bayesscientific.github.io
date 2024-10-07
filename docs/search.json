@@ -4,13 +4,76 @@
     "href": "index.html",
     "title": "Bayesian Scientific Working Group",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "The Bayesian Scientific Working Group (BSWG) was formed in 2011 with the vision to ensure that Bayesian methods are well-understood and broadly utilized for design and analysis throughout the medical product development process and to improve industrial, regulatory and economic decision making. The group is comprised of individuals from academia, industry and regulatory authorities."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About the Bayesian Scientific Working Group",
     "section": "",
-    "text": "The Bayesian Scientific Working Group (BSWG) was formed in 2011 with the vision to ensure that Bayesian methods are well-understood and broadly utilized for design and analysis throughout the medical product development process and to improve industrial, regulatory and economic decision making. The group is comprised of individuals from academia, industry and regulatory authorities"
+    "text": "The Bayesian Scientific Working Group (BSWG) was formed in 2011 with the vision to ensure that Bayesian methods are well-understood and broadly utilized for design and analysis throughout the medical product development process and to improve industrial, regulatory and economic decision making. The group is comprised of individuals from academia, industry and regulatory authorities. As Bayesian applications in medical product development are wide ranging, several sub-teams were formed to focus on various Bayesian topics such as safety, non-inferiority, prior specification, comparative effectiveness, joint modeling, program wide decision making, tools and education."
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "BSWG\nBayesian Scientific Working Group\nbayesianscientific@gmail.com"
+  },
+  {
+    "objectID": "historical_subteam.html",
+    "href": "historical_subteam.html",
+    "title": "Subteam: Use of Historical Data and Prior Specification",
+    "section": "",
+    "text": "Satrajit Roychoudhury (Satrajit [dot] Roychoudhury [at] pfizer [dot] com)"
+  },
+  {
+    "objectID": "subteams/joint_modeling.html",
+    "href": "subteams/joint_modeling.html",
+    "title": "Subteam: Joint modeling",
+    "section": "",
+    "text": "Leader information\nLarry Gould (larry_gould [at] merck [dot] com)\n\n\nOverview\nMethods for borrowing historical information, and the ramifications of these methods, are less well understood in terms of benefits, effects, and regulatory ramifications. The goal of this subteam is to illustrate and compare methods, understand considerations for integrating historical information into confirmatory trials, and participate in external Taskforce to influence regulatory policy change on the use of historical data."
+  },
+  {
+    "objectID": "historical_subteam.html#overview",
+    "href": "historical_subteam.html#overview",
+    "title": "Subteam: Use of Historical Data and Prior Specification",
+    "section": "Overview",
+    "text": "Overview\nMethods for borrowing historical information, and the ramifications of these methods, are less well understood in terms of benefits, effects, and regulatory ramifications. The goal of this subteam is to illustrate and compare methods, understand considerations for integrating historical information into confirmatory trials, and participate in external Taskforce to influence regulatory policy change on the use of historical data."
+  },
+  {
+    "objectID": "subteams/historical_subteam.html",
+    "href": "subteams/historical_subteam.html",
+    "title": "Subteam: Use of Historical Data and Prior Specification",
+    "section": "",
+    "text": "Satrajit Roychoudhury (Satrajit [dot] Roychoudhury [at] pfizer [dot] com)"
+  },
+  {
+    "objectID": "subteams/historical_subteam.html#overview",
+    "href": "subteams/historical_subteam.html#overview",
+    "title": "Subteam: Use of Historical Data and Prior Specification",
+    "section": "Overview",
+    "text": "Overview\nMethods for borrowing historical information, and the ramifications of these methods, are less well understood in terms of benefits, effects, and regulatory ramifications. The goal of this subteam is to illustrate and compare methods, understand considerations for integrating historical information into confirmatory trials, and participate in external Taskforce to influence regulatory policy change on the use of historical data."
+  },
+  {
+    "objectID": "about.html#what-is-bayesian-statistics",
+    "href": "about.html#what-is-bayesian-statistics",
+    "title": "About the Bayesian Scientific Working Group",
+    "section": "What is Bayesian Statistics?",
+    "text": "What is Bayesian Statistics?\nBayesian statistics, named for the Scottish statistician and minister Thomas Bayes (1701-1761), is a theory in the field of statistics in which the evidence about the true state of the world is expressed in terms of ‘degrees of belief’ called Bayesian probabilities. Such an interpretation is only one of a number of interpretations of probability and there are other statistical techniques that are not based on ‘degrees of belief’. One of the key ideas of Bayesian statistics is that “probability is orderly opinion, and that inference from data is nothing other than the revision of such opinion in the light of relevant new information.”"
+  },
+  {
+    "objectID": "index.html#current-officers",
+    "href": "index.html#current-officers",
+    "title": "Bayesian Scientific Working Group",
+    "section": "Current Officers",
+    "text": "Current Officers\n\nChair: Freda Cooner\nVice-Chair: - Pritibha Singh\nAdvisors: Karen Price; Amy Xia; Fanni Natanegara\nCo-Secretaries: Spencer Woody; Hao Sun\nKOL Lecture Series Organizers: Haijun Ma; Mathangi Gopalakrishnan; Freda Cooner\nPublication Chairs: Samiran Ghosh\nWebmaster: Haijun Ma; Melvin Munsaka; Spencer Woody"
+  },
+  {
+    "objectID": "resources/kol.html",
+    "href": "resources/kol.html",
+    "title": "KOL Lecture Series",
+    "section": "",
+    "text": "July 2023: Why are there not more Bayesian Clinical Trials? Results from a Survey of Clinicians in the Clinical Trial Community presented by Jennifer Clark and Ross Bray"
   }
 ]
