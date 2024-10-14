@@ -1,0 +1,6 @@
+---
+title: "KOL Lecture Series"
+---
+
+- July 2023: [Why are there not more Bayesian Clinical Trials? Results from a Survey of Clinicians in the Clinical Trial Community presented by Jennifer Clark and Ross Bray](../files/BSWG_KOL_ClarkBray20230721_v1.pdf)
+

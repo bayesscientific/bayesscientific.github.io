@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bayesian Scientific Working Group"
+  navbar: 
+    # logo: logo_cropped.png
+    left: 
+      - href: index.qmd
+        text: Home
+      - href: about.qmd 
+        text: About
+      - text: "Subteams"
+        menu: 
+          - href: ./subteams/historical_subteam.qmd
+            text: "Use of historical data/prior specification"
+          - href: ./subteams/joint_modeling.qmd
+            text: "Joint modeling"
+      - text: "Resources"
+        menu: 
+          - href: ./resources/kol.qmd
+            text: "KOL"
+          - href: ./subteams/joint_modeling.qmd
+            text: "Joint modeling"
+      # - href: events.qmd
+      #   text: "Events"
+      - Contact.qmd
+  #     - sidebar:subteams
+  # 
+  # sidebar:
+  #   - id: subteams
+  #     title: "Subteams"
+  #     style: "docked"
+  #     contents: 
+  #       - href: historical_subteam.qmd
+  #         text: "Historical subteam"
+        
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+

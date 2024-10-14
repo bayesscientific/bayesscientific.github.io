@@ -1,0 +1,11 @@
+---
+title: "Subteam: Joint modeling"
+---
+
+# Leader information
+
+Larry Gould (larry_gould [at] merck [dot] com)
+
+# Overview
+
+Methods for borrowing historical information, and the ramifications of these methods, are less well understood in terms of benefits, effects, and regulatory ramifications. The goal of this subteam is to illustrate and compare methods, understand considerations for integrating historical information into confirmatory trials, and participate in external Taskforce to influence regulatory policy change on the use of historical data.

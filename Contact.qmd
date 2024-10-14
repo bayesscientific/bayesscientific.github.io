@@ -1,0 +1,8 @@
+---
+title: "Contact"
+sidebar: false
+---
+
+BSWG  
+Bayesian Scientific Working Group  
+bayesianscientific@gmail.com  

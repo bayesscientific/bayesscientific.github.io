@@ -1,0 +1,25 @@
+---
+title: " "
+# image: logo.png
+# image-width: 80%
+about: 
+  template: marquee
+sidebar: false
+---
+
+![](./files/logo.png){width=65% fig-align="center"}
+
+
+The **Bayesian Scientific Working Group (BSWG)** was formed in 2011 with the vision to ensure that Bayesian methods are well-understood and broadly utilized for design and analysis throughout the medical product development process and to improve industrial, regulatory and economic decision making. The group is comprised of individuals from academia, industry and regulatory authorities.
+
+## Current Officers
+
+-   **Chair:** Pritibha Singh
+-   **Vice-Chair:** Melissa Spann 
+-   **Advisors:** Karen Price; Amy Xia; Fanni Natanegara; Freda Cooner
+-   **Co-Secretaries:** Spencer Woody; Hao Sun
+-   **KOL Lecture Series Organizers:** Haijun Ma; Mathangi Gopalakrishnan; Freda Cooner
+-   **Publication Chair:** (Position open)
+-   **Webmaster:** Melvin Munsaka; Spencer Woody; Haijun Ma
+
+<!-- $\int_{-\infty}^{\infty} \exp(-x^2)dx=2\pi$ -->
