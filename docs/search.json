@@ -4,7 +4,7 @@
     "href": "resources/kol.html",
     "title": "KOL Lecture Series",
     "section": "",
-    "text": "July 2023: Why are there not more Bayesian Clinical Trials? Results from a Survey of Clinicians in the Clinical Trial Community presented by Jennifer Clark and Ross Bray"
+    "text": "Feb 2023: Considerations for Bayesian Methods with Informative Priors presented by James Travis\nMar 2023: Using meta-analyses to guide statistical methodology for clinical dose response studies presented by Neal Thomas\nApr 2023: The Bayesian Time Machine: Accounting for temporal drift in multi-arm platform trials presented by Ben Saville\nMay 2023: Design and Sample Size Determination for Multiple-dose Randomized Phase II Trials for Dose Optimization presented by Ying Yuan\nJul 2023: Why are there not more Bayesian Clinical Trials? Results from a Survey of Clinicians in the Clinical Trial Community presented by Jennifer Clark and Ross Bray"
   },
   {
     "objectID": "subteams/joint_modeling.html",
@@ -75,5 +75,47 @@
     "title": "About the Bayesian Scientific Working Group",
     "section": "What is Bayesian Statistics?",
     "text": "What is Bayesian Statistics?\nBayesian statistics, named for the Scottish statistician and minister Thomas Bayes (1701-1761), is a theory in the field of statistics in which the evidence about the true state of the world is expressed in terms of ‘degrees of belief’ called Bayesian probabilities. Such an interpretation is only one of a number of interpretations of probability and there are other statistical techniques that are not based on ‘degrees of belief’. One of the key ideas of Bayesian statistics is that “probability is orderly opinion, and that inference from data is nothing other than the revision of such opinion in the light of relevant new information.”"
+  },
+  {
+    "objectID": "resources/kol.html#section-1",
+    "href": "resources/kol.html#section-1",
+    "title": "KOL Lecture Series",
+    "section": "2022",
+    "text": "2022\n\nJan 2022: Use of external data in randomized clinical trials presented by Heinz Schmidli and Marius Thomas, Novartis\nMar 2022: Rev. Bayes’ best friend: Markov or Laplace? presented by Krishna Padmanabhan\nApr 2022: Statistical Designs for Early Phase Oncology Drug Development in the Era of Dose Optimizing for Targeted Therapeutics presented by Yuan Ji\nMay 2022: Bayesian Divide-and-Conquer Propensity Score Based Approaches for Leveraging Real World Data in Single Arm Clinical Trials presented by Jian Zhu and Eric Baron\nJul 2022: A Bayesian Adaptive Trial in Duchenne Muscular Dystrophy presented by Stephen Lake\nAug 2022: Delivering Transformative Medicines to Patients by Leveraging Complex Innovative Designs AMG 592 SLE Case Study presented by Amy Xia, May Mo, Tony Jiang\nAug 2022: The Epistemological Superiority of Bayesian Inference over Frequentist Inference Inferring What is Likely To Be True presented by Stephen J. Ruberg\nSep 2022: Case Study of a Phase 3 Study Design with Hybrid Control in 1L DLBCL: FDA Complex Innovative Designs Pilot Program presented by Jiawen Zhu & Herb Pang\nOct 2022: Learnings from Chronic Pain Master Protocol: FDA Complex Innovative Designs Pilot Program presented by Saptarshi Chatterjee and Phebe Kemmer\nNov 2022: NEOS: A Bayesian non-inferiority trial design in pediatric multiple sclerosis in the FDA Complex Innovative Designs Pilot Program presented by Marius Thomas & Dieter A Häring\nDec 2022: CID from pilot program, to program, to common submission presented by Scott Berry"
+  },
+  {
+    "objectID": "resources/kol.html#section-2",
+    "href": "resources/kol.html#section-2",
+    "title": "KOL Lecture Series",
+    "section": "2021",
+    "text": "2021\n\nFeb 2021: Strategies for improving the assessment of the probability of success in late stage drug development presented by Lisa Hampson and Björn Holzhauer\nMar 2021: Historical control data borrowing for non-inferiority assessment presented by Hui Quan\nApr 2021: Bayesian multivariate probability of success with strict control of type I error presented by Matt Psioda and Ethan Alt\nJun 2021: Bayesian detection of potential safety signal from blinded clinical trial data presented by Saurabh Mukhopadhyay and Brian Waterhouse\nAug 2021: Bayesian Model Averaging of Longitudinal Dose Response Models presented by Richard Payne\nOct 2021: Bayesian Shared Parameter Analysis of Mortality and Function within an Adaptive Platform Trial for ALS presented by Melanie Quintana\nNov 2021: Use of Bayesian Hierarchical Models in the Presentation of Subgroup Analyses presented by Mark Rothmann"
+  },
+  {
+    "objectID": "resources/kol.html#section-3",
+    "href": "resources/kol.html#section-3",
+    "title": "KOL Lecture Series",
+    "section": "2020",
+    "text": "2020\n\nAug 2020: DIA KOL Lectures presented by Alex Karanevich, PhD (EMB Statistical Solutions); Hengrui Sun, DrPH, MD (FDA); Joe Marion, PhD (Berry Consultants)\nSep 2020: A Bayesian Sequential Design for COVID-19 Vaccine Trials presented by Rajat Mukherjee\nOct 2020: Incorporate External Control Data in New Clinical Trial Design and Analysis presented by Lanju Zhang, PhD (AbbVie)\nNov 2020: Leveraging External Evidence in Medical Device Decision-Making presented by Ram Tiwari\nDec 2020: Statistical considerations for trials that study multiple indications presented by Brian Hobbs; Emily Zabor; Alexander Kaizer"
+  },
+  {
+    "objectID": "resources/kol.html#section-4",
+    "href": "resources/kol.html#section-4",
+    "title": "KOL Lecture Series",
+    "section": "2019",
+    "text": "2019\n\nFeb 2019: Case Studies in Calibrating Hierarchical Model Priors presented by Kert Viele\nMar 2019: Bayesian Biopharmaceutical Applications using PROC MCMC and PROC BGLIMM presented by Fang Chen\nJul 2019: Nonclinical Bayesian projects AZ presented by Steven Novick\nAug 2019: Why Bother with Bayes presented by Thomas Louis\nSep 2019: Why Bayes for Clinical Trials presented by Frank Harrell\nOct 2019: Benefit Risk Assessment Using Bayesian Discrete Choice Experiment presented by Saurabh Mukhopadhyay\nNov 2019: Use of Historical Data in Clinical Trial: An Evidence Synthesis Approach presented by Satrajit Roychoudhury (Pfizer Inc) and Sebastian Weber (Novartis)"
+  },
+  {
+    "objectID": "resources/kol.html#section-5",
+    "href": "resources/kol.html#section-5",
+    "title": "KOL Lecture Series",
+    "section": "2018",
+    "text": "2018\n\nJan 2018: The Value of Bayesian Approaches in the Regulatory Setting: Lessons from the Past and Perspectives for the Future presented by Telba Irony\nMar 2018: Design and analysis of non-inferiority trials: some frequentist and Bayesian perspective presented by Samiran Ghosh\nAug 2018: Bayesian sample size determination methods for hypotheses testing presented by Sujit Ghosh\nOct 2018: Unified Screening for Potential Elevated Adverse Event Risk and Other Associations presented by Larry Gould\nDec 2018: BOIN: a Novel Platform for Designing Early Phase Clinical Trials presented by Ying Yuan"
+  },
+  {
+    "objectID": "resources/kol.html#section-6",
+    "href": "resources/kol.html#section-6",
+    "title": "KOL Lecture Series",
+    "section": "2017",
+    "text": "2017\n\nJun 2017: Bayesian Methods in Pharmaceutical Development and Clinical Trial Design presented by Scott Berry\nAug 2017: Bayesian Disease Progression Modeling in Clinical Trial Design presented by Melanie Quintana\nOct 2017: BMA-Mod : A Bayesian Model Averaging Strategy for Determining Dose-Response Relationships in the Presence of Model Uncertainty presented by Larry Gould"
   }
 ]

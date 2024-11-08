@@ -2,5 +2,71 @@
 title: "KOL Lecture Series"
 ---
 
-- July 2023: [Why are there not more Bayesian Clinical Trials? Results from a Survey of Clinicians in the Clinical Trial Community presented by Jennifer Clark and Ross Bray](../files/BSWG_KOL_ClarkBray20230721_v1.pdf)
+## 2023
+
+- Feb 2023: [Considerations for Bayesian Methods with Informative Priors presented by James Travis](../files/KOL/2023-02-cid-dia-bswg-webinar-feb-24.pptx)
+- Mar 2023: [Using meta-analyses to guide statistical methodology for clinical dose response studies presented by Neal Thomas](../files/KOL/2023-03-dia23.pdf)
+- Apr 2023: [The Bayesian Time Machine: Accounting for temporal drift in multi-arm platform trials presented by Ben Saville](../files/KOL/2023-04-SavilleTimeMachine_BSWG_2023.pdf)
+- May 2023: [Design and Sample Size Determination for Multiple-dose Randomized Phase II Trials for Dose Optimization presented by Ying Yuan](../files/KOL/2023-05-MERIT-BSWG-YingYuan.pdf)
+- Jul 2023: [Why are there not more Bayesian Clinical Trials? Results from a Survey of Clinicians in the Clinical Trial Community presented by Jennifer Clark and Ross Bray](../files/KOL/2023-07-BSWG_KOL_ClarkBray20230721_v1.pdf)
+
+## 2022
+
+- Jan 2022: [Use of external data in randomized clinical trials presented by Heinz Schmidli and Marius Thomas, Novartis](../files/KOL/2022-01-Schmidli-Thomas-2022-DIA-Bayesian-WG-webinar.pptx)
+- Mar 2022: [Rev. Bayes’ best friend: Markov or Laplace? presented by Krishna Padmanabhan](../files/KOL/2022-03-DIA_Bayes-KOL-_INLA-Talk_March-2022_-KrishnaP.pdf)
+- Apr 2022: [Statistical Designs for Early Phase Oncology Drug Development in the Era of Dose Optimizing for Targeted Therapeutics presented by Yuan Ji](../files/KOL/2022-04-Phase-1-talk-2022.pdf)
+- May 2022: [Bayesian Divide-and-Conquer Propensity Score Based Approaches for Leveraging Real World Data in Single Arm Clinical Trials presented by Jian Zhu and Eric Baron](../files/KOL/2022-05-KOL_Series_May-20-2022.pdf)
+- Jul 2022: [A Bayesian Adaptive Trial in Duchenne Muscular Dystrophy presented by Stephen Lake](../files/KOL/2022-07-Lake_S_BSWG2022_final-1.pdf)
+- Aug 2022: [Delivering Transformative Medicines to Patients by Leveraging Complex Innovative Designs AMG 592 SLE Case Study presented by Amy Xia, May Mo, Tony Jiang](../files/KOL/2022-08-CID_BSWG_AUG2022.pdf)
+- Aug 2022: [The Epistemological Superiority of Bayesian Inference over Frequentist Inference Inferring What is Likely To Be True presented by Stephen J. Ruberg](../files/KOL/2022-08-2022-08-26-FINAL-DIA-Bayesian-Stats-Working-Group.pptx)
+- Sep 2022: [Case Study of a Phase 3 Study Design with Hybrid Control in 1L DLBCL: FDA Complex Innovative Designs Pilot Program presented by Jiawen Zhu & Herb Pang](../files/KOL/2022-09-Bayesian-KOL-session.pptx.pdf)
+- Oct 2022: [Learnings from Chronic Pain Master Protocol: FDA Complex Innovative Designs Pilot Program presented by Saptarshi Chatterjee and Phebe Kemmer](../files/KOL/2022-10-DIA-BSWG-KOL-CPMP-21OCT2022_final.pdf)
+- Nov 2022: [NEOS: A Bayesian non-inferiority trial design in pediatric multiple sclerosis in the FDA Complex Innovative Designs Pilot Program presented by Marius Thomas & Dieter A Häring](../files/KOL/2022-11-neos_dia_bswg_nov22.pptx)
+- Dec 2022: [CID from pilot program, to program, to common submission presented by Scott Berry](../files/KOL/2022-12-Berry_CID.pdf)
+
+## 2021
+
+- Feb 2021: [Strategies for improving the assessment of the probability of success in late stage drug development presented by Lisa Hampson and Björn Holzhauer](../files/KOL/2021-02-DIA_Hampson_Holzhauer_Feb2021.pptx)
+- Mar 2021: [Historical control data borrowing for non-inferiority assessment presented by Hui Quan](../files/KOL/2021-03-Historical-data-borrowing-for-NI-assessment-Quan.pptx)
+- Apr 2021: [Bayesian multivariate probability of success with strict control of type I error presented by Matt Psioda and Ethan Alt](../files/KOL/2021-04-Alt_DIApres_Final.pdf)
+- Jun 2021: [Bayesian detection of potential safety signal from blinded clinical trial data presented by Saurabh Mukhopadhyay and Brian Waterhouse](../files/KOL/2021-06-BDRIBS-DIA-BSWG-KOL-2021-v2_BW4_SM1.pdf)
+- Aug 2021: [Bayesian Model Averaging of Longitudinal Dose Response Models presented by Richard Payne](../files/KOL/2021-08-Payne_KOL_Bayesian_Model_Averaging_of_Longitudinal_Dose_Response_Models.pdf)
+- Oct 2021: [Bayesian Shared Parameter Analysis of Mortality and Function within an Adaptive Platform Trial for ALS presented by Melanie Quintana](../files/KOL/2021-10-Quintana.ALSBayes.10.15.21.pdf)
+- Nov 2021: [Use of Bayesian Hierarchical Models in the Presentation of Subgroup Analyses presented by Mark Rothmann](../files/KOL/2021-11-Use-of-Bayesian-Hierarchical-Models-in-the-Presentation-of-Subgroup-Analyses.pptx)
+
+## 2020
+
+- Aug 2020: [DIA KOL Lectures presented by Alex Karanevich, PhD (EMB Statistical Solutions); Hengrui Sun, DrPH, MD (FDA); Joe Marion, PhD (Berry Consultants)](../files/KOL/2020-08-DIA-KOL-Aug2020.zip)
+- Sep 2020: [A Bayesian Sequential Design for COVID-19 Vaccine Trials presented by Rajat Mukherjee](../files/KOL/2020-09-DIAbswgRM.pdf)
+- Oct 2020: [Incorporate External Control Data in New Clinical Trial Design and Analysis presented by Lanju Zhang, PhD (AbbVie)](../files/KOL/2020-10-DIA-BSWG-16OCT2020.pdf)
+- Nov 2020: [Leveraging External Evidence in Medical Device Decision-Making presented by Ram Tiwari](../files/KOL/2020-11-DIA-BWG_KOL_Tiwari.2020.pptx)
+- Dec 2020: [Statistical considerations for trials that study multiple indications presented by Brian Hobbs; Emily Zabor; Alexander Kaizer](../files/KOL/2020-12-DIA_BSWG_KOL_December_2020_Hobbs_Zabor_Kaizer.pdf)
+
+## 2019
+
+- Feb 2019: [Case Studies in Calibrating Hierarchical Model Priors presented by Kert Viele](../files/KOL/2019-02-casestudieshmpriorsviele.pdf)
+- Mar 2019: [Bayesian Biopharmaceutical Applications using PROC MCMC and PROC BGLIMM presented by Fang Chen](../files/KOL/2019-03-KOL_FangChen.pdf)
+- Jul 2019: [Nonclinical Bayesian projects AZ presented by Steven Novick](../files/KOL/2019-07-Nonclinical-Bayesian-projects-AZ.pptx)
+- Aug 2019: [Why Bother with Bayes presented by Thomas Louis](../files/KOL/2019-08-DIA-BSWG-KOL_TALouis.pdf)
+- Sep 2019: [Why Bayes for Clinical Trials presented by Frank Harrell](../files/KOL/2019-09-why.pdf)
+- Oct 2019: [Benefit Risk Assessment Using Bayesian Discrete Choice Experiment presented by Saurabh Mukhopadhyay](../files/KOL/2019-10-HBBR-DIA-BSWG-KOL-v1.1.pdf)
+- Nov 2019: [Use of Historical Data in Clinical Trial: An Evidence Synthesis Approach presented by Satrajit Roychoudhury (Pfizer Inc) and Sebastian Weber (Novartis)](../files/KOL/2019-11-2019_11_22_KOL_MAP.zip)
+
+## 2018
+
+- Jan 2018: [The Value of Bayesian Approaches in the Regulatory Setting: Lessons from the Past and Perspectives for the Future presented by Telba Irony](../files/KOL/2018-01-Irony_BayesKOL_11918.pdf)
+- Mar 2018: [Design and analysis of non-inferiority trials: some frequentist and Bayesian perspective presented by Samiran Ghosh](../files/KOL/2018-03-Samiran_NI_KOL.pdf)
+- Aug 2018: [Bayesian sample size determination methods for hypotheses testing presented by Sujit Ghosh](../files/KOL/2018-08-Ghosh-KOL-DIA-BSWG-Handouts.pdf)
+- Oct 2018: [Unified Screening for Potential Elevated Adverse Event Risk and Other Associations presented by Larry Gould](../files/KOL/2018-10-NewBayesScreenKOL.pptx)
+- Dec 2018: [BOIN: a Novel Platform for Designing Early Phase Clinical Trials presented by Ying Yuan](../files/KOL/2018-12-BOIN-platform-KOL-YingYuan.pdf)
+
+## 2017 
+
+- Jun 2017: [Bayesian Methods in Pharmaceutical Development and Clinical Trial Design presented by Scott Berry](../files/KOL/2017-06-Berry-DIA.pdf)
+- Aug 2017: [Bayesian Disease Progression Modeling in Clinical Trial Design presented by Melanie Quintana](../files/KOL/2017-08-KOL.DPM_.2017.pdf)
+- Oct 2017: [BMA-Mod : A Bayesian Model Averaging Strategy for Determining Dose-Response Relationships in the Presence of Model Uncertainty presented by Larry Gould](../files/KOL/2017-10-Larry_Gould_KOL.pdf)
+
+
+
+
 

@@ -20,7 +20,7 @@ website:
       - text: "Resources"
         menu: 
           - href: ./resources/kol.qmd
-            text: "KOL"
+            text: "KOL Lecture Series"
           - href: ./subteams/joint_modeling.qmd
             text: "Joint modeling"
       # - href: events.qmd
