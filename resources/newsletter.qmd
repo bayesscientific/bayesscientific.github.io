@@ -5,4 +5,4 @@ toc: false
 
 ## 2024
 
-- 2024 Q4
+- [2024 Q4](./../files/newsletter/BSWG_Newsletter_2024_Issue_2_Year_End.pdf)
