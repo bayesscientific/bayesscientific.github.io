@@ -21,8 +21,8 @@ website:
         menu: 
           - href: ./resources/kol.qmd
             text: "KOL Lecture Series"
-          - href: ./subteams/joint_modeling.qmd
-            text: "Joint modeling"
+          - href: ./resources/newsletter.qmd
+            text: "Newsletter"
       # - href: events.qmd
       #   text: "Events"
       - Contact.qmd
