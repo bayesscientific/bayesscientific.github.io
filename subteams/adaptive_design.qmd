@@ -1,0 +1,11 @@
+---
+title: "Subteam: Adaptive Design and Decision Making"
+---
+
+# Leader information
+
+ Pritibha Singh (pritibha.singh \[at\] gmail \[dot\] com) and Yuan Ji (jiyuan \[at\] uchicago \[dot\] \[edu\])
+
+# Overview
+
+The BSWG Adaptive Design and Decision-Making Sub-team is focused on advancing clinical trial innovation and strategic decisionmaking across drug programs and portfolios. Our sub-team advocates practical feasibility and theoretical rigor in adaptive Bayesian methodology development and use. We build on posterior inference and quantify statistical errors that differ from classical metrics like type I error rate. Our work aims to facilitate more flexible, data-driven, and efficient decision-making.

@@ -13,6 +13,8 @@ website:
         text: About
       - text: "Subteams"
         menu: 
+          - href: ./subteams/adaptive_design.qmd
+            text: "Adaptive Design"
           - href: ./subteams/historical_subteam.qmd
             text: "Use of historical data/prior specification"
           - href: ./subteams/joint_modeling.qmd
