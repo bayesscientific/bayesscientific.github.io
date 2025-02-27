@@ -12,9 +12,9 @@
 
 # Links
 
-- [Old site](http://www.bayesianscientific.org/)
+-   [Old site](http://www.bayesianscientific.org/) 
+-   [Archived version of old site](https://web.archive.org/web/20240414065542/http://www.bayesianscientific.org/kol-lecture-series/)
 
 # Contact
 
 Spencer Woody (spencerwoody11 \[at\] gmail \[dot\] com)
-
