@@ -1,0 +1,14 @@
+---
+title: "Subteam: Pediatrics/Small Population"
+toc: false
+editor: 
+  mode: source
+---
+
+# Leader information
+
+**Open for lead and co-lead**
+
+# Overview
+
+Goals: 1) Explore statistical methodology that can be applicable in the design of analysis of clinical trials with particular interest in applying Bayesian methodology. 2) Illustrate and provide advice on best practices that could be used by statisticians in designing trials for pediatric and orphan therapeutics. 3) Collaborate with pharma, academia and regulatory bodies to exchange problems/issues as well as possibilities where consensus in solutions can be made 4) Disseminate information on research and best practices to broader scientific community as through conferences, workshops and seminars

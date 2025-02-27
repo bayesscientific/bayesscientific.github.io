@@ -1,0 +1,12 @@
+---
+title: "Subteam: Benefit Risk"
+toc: false
+---
+
+# Leader information
+
+Madhurima Majumder (madhurima.majumder \[at\] bayer \[dot\] com) and Carl DiCasoli (carl.dicasoli@cabalettabio.com \[at\] uchicago \[dot\] com)
+
+# Overview
+
+The benefit-risk (B-R) assessment of a new medicinal product is one of the most complex tasks that sponsors, regulators, payers, physicians, and patients face. Several quantitative methods have been proposed in recent years that try to provide insight into this challenging problem. Bayesian inference, with its coherent approach for integrating different sources of information and uncertainty, along with its links to optimal decision theory, provides a natural framework to perform quantitative assessments of the B-R trade-off.

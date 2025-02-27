@@ -1,0 +1,12 @@
+---
+title: "Subteam: Bayesian Preclinical/Discovery"
+toc: false
+---
+
+# Leader information
+
+Tony Pourmohamad (pourmoht \[at\] gene \[dot\] com) and Erina Paul (erina.paul \[at\] merck \[dot\] edu)
+
+# Overview
+
+In partnership with ASA Biopharm WG, our goals are to influence regulatory guidelines, elevate industry practices, and raise awareness of Bayesian methods in nonclinical areas. We aim to develop specific use-cases in CMC and nonCMC areas, fostering an inclusive, diverse, and transformative impact. Join us.

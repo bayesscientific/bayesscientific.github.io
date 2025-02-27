@@ -1,0 +1,14 @@
+---
+title: "Subteam: Medical Outreach"
+toc: false
+editor: 
+  mode: source
+---
+
+# Leader information
+
+Natasha Muhlemann (natalia.muhlemann \[at\] cytel \[dot\] com) and Purvi Prajapati (prajapati_purvi \[at\] lilly \[dot\] com)
+
+# Overview
+
+The Medical Outreach Group was formed with the vision to ensure that Bayesian methods are wellunderstood and broadly utilized for design and analysis throughout the medical product development process and to improve industrial, regulatory and economic decision making. Our goal is to coordinate and provide adaptive and educational support, which will help our medical colleagues collaborate with statisticians in implementing adaptive and Bayesian approaches in drug development as appropriate. This includes frank and balanced discussions of both advantages and disadvantages of these methods. We intend to provide education at a variety of levels, to meet the needs of medical colleagues working in different organizations (e.g. industry, regulatory).

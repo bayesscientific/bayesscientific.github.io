@@ -4,7 +4,7 @@
     "href": "Contact.html",
     "title": "Contact",
     "section": "",
-    "text": "BSWG\nBayesian Scientific Working Group\nbayesianscientific@gmail.com"
+    "text": "Bayesian Scientific Working Group\nbayesianscientific@gmail.com"
   },
   {
     "objectID": "subteams/historical_subteam.html",
@@ -60,14 +60,14 @@
     "href": "resources/kol.html",
     "title": "KOL Lecture Series",
     "section": "",
-    "text": "Feb 2023: Considerations for Bayesian Methods with Informative Priors presented by James Travis\nMar 2023: Using meta-analyses to guide statistical methodology for clinical dose response studies presented by Neal Thomas\nApr 2023: The Bayesian Time Machine: Accounting for temporal drift in multi-arm platform trials presented by Ben Saville\nMay 2023: Design and Sample Size Determination for Multiple-dose Randomized Phase II Trials for Dose Optimization presented by Ying Yuan\nJul 2023: Why are there not more Bayesian Clinical Trials? Results from a Survey of Clinicians in the Clinical Trial Community presented by Jennifer Clark and Ross Bray"
+    "text": "You can watch the recordings of the entire KOL Lecture Series on our YouTube channel."
   },
   {
     "objectID": "resources/kol.html#section",
     "href": "resources/kol.html#section",
     "title": "KOL Lecture Series",
-    "section": "",
-    "text": "Feb 2023: Considerations for Bayesian Methods with Informative Priors presented by James Travis\nMar 2023: Using meta-analyses to guide statistical methodology for clinical dose response studies presented by Neal Thomas\nApr 2023: The Bayesian Time Machine: Accounting for temporal drift in multi-arm platform trials presented by Ben Saville\nMay 2023: Design and Sample Size Determination for Multiple-dose Randomized Phase II Trials for Dose Optimization presented by Ying Yuan\nJul 2023: Why are there not more Bayesian Clinical Trials? Results from a Survey of Clinicians in the Clinical Trial Community presented by Jennifer Clark and Ross Bray"
+    "section": "2023",
+    "text": "2023\n\nFeb 2023: Considerations for Bayesian Methods with Informative Priors presented by James Travis\nMar 2023: Using meta-analyses to guide statistical methodology for clinical dose response studies presented by Neal Thomas\nApr 2023: The Bayesian Time Machine: Accounting for temporal drift in multi-arm platform trials presented by Ben Saville\nMay 2023: Design and Sample Size Determination for Multiple-dose Randomized Phase II Trials for Dose Optimization presented by Ying Yuan\nJul 2023: Why are there not more Bayesian Clinical Trials? Results from a Survey of Clinicians in the Clinical Trial Community presented by Jennifer Clark and Ross Bray"
   },
   {
     "objectID": "resources/kol.html#section-1",
@@ -116,7 +116,7 @@
     "href": "resources/newsletter.html",
     "title": "KOL Lecture Series",
     "section": "",
-    "text": "2024 Q4"
+    "text": "2025 Issue 1"
   },
   {
     "objectID": "resources/newsletter.html#section",
@@ -165,6 +165,139 @@
     "href": "subteams/adaptive_design.html",
     "title": "Subteam: Adaptive Design and Decision Making",
     "section": "",
-    "text": "Leader information\nPritibha Singh (pritibha.singh [at] gmail [dot] com) and Yuan Ji (jiyuan [at] uchicago [dot] [edu])\n\n\nOverview\nThe BSWG Adaptive Design and Decision-Making Sub-team is focused on advancing clinical trial innovation and strategic decisionmaking across drug programs and portfolios. Our sub-team advocates practical feasibility and theoretical rigor in adaptive Bayesian methodology development and use. We build on posterior inference and quantify statistical errors that differ from classical metrics like type I error rate. Our work aims to facilitate more flexible, data-driven, and efficient decision-making."
+    "text": "Leader information\nPritibha Singh (pritibha.singh [at] gmail [dot] com) and Yuan Ji (jiyuan [at] uchicago [dot] edu)\n\n\nOverview\nThe BSWG Adaptive Design and Decision-Making Sub-team is focused on advancing clinical trial innovation and strategic decisionmaking across drug programs and portfolios. Our sub-team advocates practical feasibility and theoretical rigor in adaptive Bayesian methodology development and use. We build on posterior inference and quantify statistical errors that differ from classical metrics like type I error rate. Our work aims to facilitate more flexible, data-driven, and efficient decision-making."
+  },
+  {
+    "objectID": "resources/newsletter.html#section-1",
+    "href": "resources/newsletter.html#section-1",
+    "title": "KOL Lecture Series",
+    "section": "2024",
+    "text": "2024\n\n2024 Year End"
+  },
+  {
+    "objectID": "subteams/ai_ml_bayesian.html",
+    "href": "subteams/ai_ml_bayesian.html",
+    "title": "Subteam: AI, ML, and Bayesian",
+    "section": "",
+    "text": "Leader information\nPritibha Singh (pritibha.singh [at] gmail [dot] com)\n\n\nOverview\nThe AI, ML, and Bayesian Sub-Team is launching with a focus on advancing the integration of artificial intelligence (AI) and machine learning (ML) within Bayesian methodologies with decision-making in pharmaceutical research. Pritibha Singh (sub-team leader) actively seeks team members with AI, ML, and Bayesian methods expertise. The specific focus is on recruiting team members who can actively contribute. At a later stage, the subteam will open up to interested parties. However, the initial core group needs to focus on the progress of the subteam’s agenda to benefit the wider BSWG community and beyond."
+  },
+  {
+    "objectID": "subteams/bayesian_preclinical.html",
+    "href": "subteams/bayesian_preclinical.html",
+    "title": "Subteam: Bayesian Preclinical/Discovery",
+    "section": "",
+    "text": "Leader information\nTony Pourmohamad (pourmoht [at] gene [dot] com) and Erina Paul (erina.paul [at] merck [dot] edu)\n\n\nOverview\nIn partnership with ASA Biopharm WG, our goals are to influence regulatory guidelines, elevate industry practices, and raise awareness of Bayesian methods in nonclinical areas. We aim to develop specific use-cases in CMC and nonCMC areas, fostering an inclusive, diverse, and transformative impact. Join us."
+  },
+  {
+    "objectID": "subteams/best_practices.html",
+    "href": "subteams/best_practices.html",
+    "title": "Subteam: Best Practices",
+    "section": "",
+    "text": "Leader information\nFanni Natanegara (natanegara_fanni@lilly.com [at] lilly [dot] com) and Cory Heilmann (heilmann_cory_r [at] lilly [dot] com)\n\n\nOverview\nThe increase in use and acceptance of Bayesian methodology in clinical trials has led to a need for guidance on how to report and document such methodology. ICH and various regulatory agencies recommend including language regarding the planned analyses for primary and other key analyses in the protocol and in a pre-specified analysis plan. This subteam’s goal is to provide recommendations on the level of detail to include in protocols and analysis plan as well as simulation plan involving Bayesian designs and analyses."
+  },
+  {
+    "objectID": "subteams/benefit_risk.html",
+    "href": "subteams/benefit_risk.html",
+    "title": "Subteam: Benefit Risk",
+    "section": "",
+    "text": "Leader information\nMadhurima Majumder (madhurima.majumder [at] bayer [dot] com) and Carl DiCasoli (carl.dicasoli@cabalettabio.com [at] uchicago [dot] com)\n\n\nOverview\nThe benefit-risk (B-R) assessment of a new medicinal product is one of the most complex tasks that sponsors, regulators, payers, physicians, and patients face. Several quantitative methods have been proposed in recent years that try to provide insight into this challenging problem. Bayesian inference, with its coherent approach for integrating different sources of information and uncertainty, along with its links to optimal decision theory, provides a natural framework to perform quantitative assessments of the B-R trade-off."
+  },
+  {
+    "objectID": "subteams/historical_data.html",
+    "href": "subteams/historical_data.html",
+    "title": "Subteam: Use of Historical Data and Prior Specification",
+    "section": "",
+    "text": "Satrajit Roychoudhury (Satrajit [dot] Roychoudhury [at] pfizer [dot] com)"
+  },
+  {
+    "objectID": "subteams/historical_data.html#overview",
+    "href": "subteams/historical_data.html#overview",
+    "title": "Subteam: Use of Historical Data and Prior Specification",
+    "section": "Overview",
+    "text": "Overview\nMethods for borrowing historical information, and the ramifications of these methods, are less well understood in terms of benefits, effects, and regulatory ramifications. The goal of this subteam is to illustrate and compare methods, understand considerations for integrating historical information into confirmatory trials, and participate in external Taskforce to influence regulatory policy change on the use of historical data."
+  },
+  {
+    "objectID": "subteams/medicine_adaptive.html",
+    "href": "subteams/medicine_adaptive.html",
+    "title": "Subteam: Medicine Adaptive Pathway to Patients",
+    "section": "",
+    "text": "Leader information\nOpen for lead and co-lead\n\n\nOverview\nThis is a subteam of the Bayesian Scientific (BSWG) and Innovative Design (IDSWG) Scientific Working Groups, focused on expedited approvals. Our first work was with stakeholders exploring ways to link platform trials across development phases (published 2016). We then developed a framework to model how divergent stakeholders can make conflicting decisions from the same evidence (published 2022). We are building on this framework to analyze case examples of divergent decisions and their impacts."
+  },
+  {
+    "objectID": "subteams/pediatrics.html",
+    "href": "subteams/pediatrics.html",
+    "title": "Subteam: Pediatrics/Small Population",
+    "section": "",
+    "text": "Leader information\nOpen for lead and co-lead\n\n\nOverview\nGoals: 1) Explore statistical methodology that can be applicable in the design of analysis of clinical trials with particular interest in applying Bayesian methodology. 2) Illustrate and provide advice on best practices that could be used by statisticians in designing trials for pediatric and orphan therapeutics. 3) Collaborate with pharma, academia and regulatory bodies to exchange problems/issues as well as possibilities where consensus in solutions can be made 4) Disseminate information on research and best practices to broader scientific community as through conferences, workshops and seminars"
+  },
+  {
+    "objectID": "subteams/medical_outreach.html",
+    "href": "subteams/medical_outreach.html",
+    "title": "Subteam: Medical Outreach",
+    "section": "",
+    "text": "Leader information\nNatasha Muhlemann (natalia.muhlemann [at] cytel [dot] com) and Purvi Prajapati (prajapati_purvi [at] lilly [dot] com)\n\n\nOverview\nThe Medical Outreach Group was formed with the vision to ensure that Bayesian methods are wellunderstood and broadly utilized for design and analysis throughout the medical product development process and to improve industrial, regulatory and economic decision making. Our goal is to coordinate and provide adaptive and educational support, which will help our medical colleagues collaborate with statisticians in implementing adaptive and Bayesian approaches in drug development as appropriate. This includes frank and balanced discussions of both advantages and disadvantages of these methods. We intend to provide education at a variety of levels, to meet the needs of medical colleagues working in different organizations (e.g. industry, regulatory)."
+  },
+  {
+    "objectID": "subteams/covid19.html",
+    "href": "subteams/covid19.html",
+    "title": "Subteam: COVID-19",
+    "section": "",
+    "text": "Leader information\nJoan Buenconsejo (Joan.Buenconsejo [at] bms [dot] com) and Fanni Natanegara (natanegara_fanni@lilly.com [at] lilly [dot] com)\n\n\nOverview\nThis subteam has partnered with the Statistical Community to find statistical opportunities to accelerate the development of COVD-19 therapeutics by way of innovative trial designs, standardized clinical outcomes, core data elements, and data sharing to enable efficient decision making and bring safe and effective therapeutics to the market."
+  },
+  {
+    "objectID": "subteams/missing_data.html",
+    "href": "subteams/missing_data.html",
+    "title": "Subteam: Missing Data",
+    "section": "",
+    "text": "Leader information\nJiajun Liu (jiajun.liu [at] biogen [dot] com)\n\n\nOverview\nGoals: 1) Review and understand the new framework for constructing estimand from the ICH E9 (R1) addendum. 2) Use case studies to illustrate the applications of Bayesian methods under the new framework. 3) Summarize and investigate the Bayesian methods for handling missing data under the new framework in the ICH E9 (R1) addendum, and to provide recommendations and guidance to the statistical community."
+  },
+  {
+    "objectID": "subteams/safety.html",
+    "href": "subteams/safety.html",
+    "title": "Subteam: Safety",
+    "section": "",
+    "text": "Leader information\nKaren Lynn Price (price_karen_lynn [at] lilly [dot] com), Amy Xia (hxia [at] amgen [dot] com), and Melvin Musaka (melvin.musaka [at] abbvie [dot] com)\n\n\nOverview\nSafety assessment is essential throughout medical product development. The goal of this subteam is to evaluate challenges associated with current methods for designing and analyzing safety trials including making the case for Bayesian meta-analyses in safety data and extending Bayesian hierarchical models for safety signal detection in clinical trials. Another objective is to promote routine use of Bayesian methods in drug safety throughout the drug lifecycle."
+  },
+  {
+    "objectID": "subteams/nonclinical_cmc.html",
+    "href": "subteams/nonclinical_cmc.html",
+    "title": "Subteam: Nonclinical (CMC)",
+    "section": "",
+    "text": "Leader information\nChristopher Thompson (christopher.thompson [at] astrazeneca [dot] com) and Ji Young Kim (ji-young.kim [at] takeda [dot] com)\n\n\nOverview\nAs part of the ASA Biopharm NonClinical WG, ASA Biopharmaceutical Nonclinical Biostatistics Bayesian CMC Scientific working Group aims to advance the use and acceptance of Bayesian methods in the nonclinical biopharmaceutical CMC statistics. More specifically:\n1. Influence regulatory guidelines and standard industry practice in the context of applying Bayesian methods and philosophy in nonclinical areas\n2. Foster broader awareness of the relevance, validity and potential advantages of Bayesian methods applied in the nonclinical space among statisticians and non-statisticians\n3. Develop specific use-cases within CMC space"
+  },
+  {
+    "objectID": "subteams/education.html",
+    "href": "subteams/education.html",
+    "title": "Subteam: Education",
+    "section": "",
+    "text": "Leader information\nFanni Natanegara (natanegara_fanni@lilly.com [at] lilly [dot] com) and Yuan Ji (jiyuan [at] uchicago [dot] edu)\n\n\nOverview\nThe goal is to coordinate and provide Bayesian educational support which will help implement Bayesian approaches in drug development on a more regular basis as appropriate. We intend to provide education at a variety of levels, i.e., to meet the needs of statisticians and non-statisticians working in different organizations (e.g., industry and regulatory)."
+  },
+  {
+    "objectID": "subteams/rwe.html",
+    "href": "subteams/rwe.html",
+    "title": "Subteam: Real World Evidence (RWE)",
+    "section": "",
+    "text": "Leader information\nXiang Zhang (Xiang.Zhang@cslbehring.com [at] cslbehring [dot] com)\n\n\nOverview\nThe inclusion of RWD/E to enhance regulatory decision making, especially for efficacy/effectiveness decision, has been advocated by FDA (and also other regulatory agencies such as EMA/MHRA/Health Canada/China NMPA) in recent years starting with the 21st Century Cures Act, PDUFA VI, and recently 2018 FDA’s RWE strategic framework. This subteam aims to leverage Bayesian methods to analyze RWD and generate RWE for regulatory decision making, which includes improving reproducibility for more credible and reliable RWE and the use of RWE in both clinical trials (e.g., hybrid control, synthetic control) and clinical planning (e.g., endpoint validation, targeting appropriate trial population)."
+  },
+  {
+    "objectID": "subteams/dct.html",
+    "href": "subteams/dct.html",
+    "title": "Subteam: DCTs",
+    "section": "",
+    "text": "Leader information\nPritibha Singh (pritibha.singh [at] gmail [dot] com). Opening for co-lead\n\n\nOverview\nThis subteam has a core focus to explore and shape the way Bayesian methods (e.g., missing data handling) are utilized in drug development from concept to readout of the Decentralized Clinical Trial.\nContact Pritibha Singh if you are interested in joining the sub-team"
+  },
+  {
+    "objectID": "subteams/reporting_tools.html",
+    "href": "subteams/reporting_tools.html",
+    "title": "Subteam: Adaptive Design and Decision Making",
+    "section": "",
+    "text": "Leader information\nOpen for lead and co-lead\n\n\nOverview\nAlthough there is a wide variety of books and numerous journal articles written on Bayesian approaches in the analysis of data, not much has been written about reporting of these analyses, particularly as this pertains to clinical research. The goal of this subteam is to provide recommendations on good practices for Bayesian reporting and overview to selected software tools for Bayesian analysis."
+  },
+  {
+    "objectID": "subteams/noninferiority.html",
+    "href": "subteams/noninferiority.html",
+    "title": "Subteam: Non-inferiority",
+    "section": "",
+    "text": "Leader information\nOpen for lead and co-lead\n\n\nOverview\nSubstantial historical data may be available on the active-control and placebo before an active controlled trial is planned in a clinical development. Bayesian approaches provide a natural framework for synthesizing the historical data that can effectively be used in designing a non-inferiority clinical trial. Despite flurry of recent research activities in this area, there are still substantial gaps in recognition and acceptance of such application in clinical trial development."
   }
 ]

@@ -1,0 +1,14 @@
+---
+title: "Subteam: Missing Data"
+toc: false
+editor: 
+  mode: source
+---
+
+# Leader information
+
+Jiajun Liu (jiajun.liu \[at\] biogen \[dot\] com) 
+
+# Overview
+
+Goals: 1) Review and understand the new framework for constructing estimand from the ICH E9 (R1) addendum. 2) Use case studies to illustrate the applications of Bayesian methods under the new framework. 3) Summarize and investigate the Bayesian methods for handling missing data under the new framework in the ICH E9 (R1) addendum, and to provide recommendations and guidance to the statistical community.

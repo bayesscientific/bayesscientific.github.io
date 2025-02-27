@@ -1,0 +1,14 @@
+---
+title: "Subteam: Education"
+toc: false
+editor: 
+  mode: source
+---
+
+# Leader information
+
+Fanni Natanegara (natanegara_fanni@lilly.com \[at\] lilly \[dot\] com) and Yuan Ji (jiyuan \[at\] uchicago \[dot\] edu)
+
+# Overview
+
+The goal is to coordinate and provide Bayesian educational support which will help implement Bayesian approaches in drug development on a more regular basis as appropriate. We intend to provide education at a variety of levels, i.e., to meet the needs of statisticians and non-statisticians working in different organizations (e.g., industry and regulatory).

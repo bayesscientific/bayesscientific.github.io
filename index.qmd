@@ -5,6 +5,7 @@ title: ""
 about: 
   template: marquee
 sidebar: false
+toc: false
 ---
 
 ![](./files/logo.png){width="65%" fig-align="center"}

@@ -5,6 +5,7 @@ project:
 website:
   title: "Bayesian Scientific Working Group"
   navbar: 
+    
     # logo: logo_cropped.png
     left: 
       - href: index.qmd
@@ -15,10 +16,42 @@ website:
         menu: 
           - href: ./subteams/adaptive_design.qmd
             text: "Adaptive Design"
-          - href: ./subteams/historical_subteam.qmd
-            text: "Use of historical data/prior specification"
+          - href: ./subteams/ai_ml_bayesian.qmd
+            text: "AI, ML, and Bayesian"
+          - href: ./subteams/bayesian_preclinical.qmd
+            text: "Bayesian Preclinical/Discovery"
+          - href: ./subteams/benefit_risk.qmd
+            text: "Benefit Risk"
+          - href: ./subteams/best_practices.qmd
+            text: "Best Practices"
+          - href: ./subteams/covid19.qmd
+            text: "COVID-19"
+          - href: ./subteams/dct.qmd
+            text: "DCTs"
+          - href: ./subteams/education.qmd
+            text: "Education"
           - href: ./subteams/joint_modeling.qmd
-            text: "Joint modeling"
+            text: "Joint Modeling"
+          - href: ./subteams/medical_outreach.qmd
+            text: "Medical Outreach"
+          - href: ./subteams/medicine_adaptive.qmd
+            text: "Medicine Adaptive Pathway to Patients"
+          - href: ./subteams/missing_data.qmd
+            text: "Missing Data"
+          - href: ./subteams/nonclinical_cmc.qmd
+            text: "Nonclinical (CMC)"
+          - href: ./subteams/noninferiority.qmd
+            text: "Non-inferiority"
+          - href: ./subteams/pediatrics.qmd
+            text: "Pediatrics/Small Populaion"
+          - href: ./subteams/historical_data.qmd
+            text: "Prior/Historical Data"
+          - href: ./subteams/reporting_tools.qmd
+            text: "Reporting/Tools"
+          - href: ./subteams/rwe.qmd
+            text: "Real World Evidence (RWE)"
+          - href: ./subteams/safety.qmd
+            text: "Safety"
       - text: "Resources"
         menu: 
           - href: ./resources/kol.qmd
@@ -28,6 +61,9 @@ website:
       # - href: events.qmd
       #   text: "Events"
       - Contact.qmd
+    right: 
+      - icon: github
+        href: https://github.com/bayesscientific/
   #     - sidebar:subteams
   # 
   # sidebar:

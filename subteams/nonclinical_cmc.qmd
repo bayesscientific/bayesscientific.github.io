@@ -1,0 +1,17 @@
+---
+title: "Subteam: Nonclinical (CMC)"
+toc: false
+editor: 
+  mode: source
+---
+
+# Leader information
+
+Christopher Thompson (christopher.thompson \[at\] astrazeneca \[dot\] com) and Ji Young Kim (ji-young.kim \[at\] takeda \[dot\] com)
+
+# Overview
+
+As part of the ASA Biopharm NonClinical WG, ASA Biopharmaceutical Nonclinical Biostatistics Bayesian CMC Scientific working Group aims to advance the use and acceptance of Bayesian methods in the nonclinical biopharmaceutical CMC statistics. More specifically:  
+1. Influence regulatory guidelines and standard industry practice in the context of applying Bayesian methods and philosophy in nonclinical areas  
+2. Foster broader awareness of the relevance, validity and potential advantages of Bayesian methods applied in the nonclinical space among statisticians and non-statisticians  
+3. Develop specific use-cases within CMC space

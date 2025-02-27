@@ -1,0 +1,14 @@
+---
+title: "Subteam: Non-inferiority"
+toc: false
+editor: 
+  mode: source
+---
+
+# Leader information
+
+**Open for lead and co-lead**
+
+# Overview
+
+Substantial historical data may be available on the active-control and placebo before an active controlled trial is planned in a clinical development. Bayesian approaches provide a natural framework for synthesizing the historical data that can effectively be used in designing a non-inferiority clinical trial. Despite flurry of recent research activities in this area, there are still substantial gaps in recognition and acceptance of such application in clinical trial development.

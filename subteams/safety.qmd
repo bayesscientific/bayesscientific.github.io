@@ -1,0 +1,14 @@
+---
+title: "Subteam: Safety"
+toc: false
+editor: 
+  mode: source
+---
+
+# Leader information
+
+Karen Lynn Price (price_karen_lynn \[at\] lilly \[dot\] com), Amy Xia (hxia \[at\] amgen \[dot\] com), and Melvin Musaka (melvin.musaka \[at\] abbvie \[dot\] com)
+
+# Overview
+
+Safety assessment is essential throughout medical product development. The goal of this subteam is to evaluate challenges associated with current methods for designing and analyzing safety trials including making the case for Bayesian meta-analyses in safety data and extending Bayesian hierarchical models for safety signal detection in clinical trials. Another objective is to promote routine use of Bayesian methods in drug safety throughout the drug lifecycle.

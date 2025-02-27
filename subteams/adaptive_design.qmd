@@ -1,10 +1,13 @@
 ---
 title: "Subteam: Adaptive Design and Decision Making"
+toc: false
+editor: 
+  mode: source
 ---
 
 # Leader information
 
- Pritibha Singh (pritibha.singh \[at\] gmail \[dot\] com) and Yuan Ji (jiyuan \[at\] uchicago \[dot\] \[edu\])
+Pritibha Singh (pritibha.singh \[at\] gmail \[dot\] com) and Yuan Ji (jiyuan \[at\] uchicago \[dot\] edu)
 
 # Overview
 

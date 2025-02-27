@@ -1,0 +1,15 @@
+---
+title: "Subteam: Medicine Adaptive Pathway to Patients"
+toc: false
+editor: 
+  mode: source
+---
+
+# Leader information
+
+**Open for lead and co-lead**
+
+# Overview
+
+This is a subteam of the Bayesian Scientific (BSWG) and Innovative Design (IDSWG) Scientific Working Groups, focused on expedited approvals. Our first work was with stakeholders exploring ways to link platform trials across development phases (published 2016). We then developed a framework to model how divergent stakeholders can make conflicting decisions from the same evidence (published 2022). We are building on this framework to analyze case examples of divergent decisions and their impacts.
+

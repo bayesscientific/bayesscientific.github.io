@@ -1,0 +1,16 @@
+---
+title: "Subteam: DCTs"
+toc: false
+editor: 
+  mode: source
+---
+
+# Leader information
+
+Pritibha Singh (pritibha.singh \[at\] gmail \[dot\] com). **Opening for co-lead**
+
+# Overview
+
+This subteam has a core focus to explore and shape the way Bayesian methods (e.g., missing data handling) are utilized in drug development from concept to readout of the Decentralized Clinical Trial.
+
+Contact Pritibha Singh if you are interested in joining the sub-team

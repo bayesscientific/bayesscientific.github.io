@@ -10,6 +10,11 @@
 -   Open `./index.qmd` from within RStudio and click `Render`
 -   By default the contents of the website will render in the folder `/docs`
 
+# Links
+
+- [Old site](http://www.bayesianscientific.org/)
+
 # Contact
 
 Spencer Woody (spencerwoody11 \[at\] gmail \[dot\] com)
+

@@ -1,0 +1,14 @@
+---
+title: "Subteam: AI, ML, and Bayesian"
+toc: false
+
+---
+
+# Leader information
+
+Pritibha Singh (pritibha.singh \[at\] gmail \[dot\] com) 
+
+# Overview
+
+The AI, ML, and Bayesian Sub-Team is launching with a focus on advancing the integration of artificial intelligence (AI) and machine learning (ML) within Bayesian methodologies with decision-making in pharmaceutical research. Pritibha Singh (sub-team leader) actively seeks team members with AI, ML, and Bayesian methods expertise. The specific focus is on recruiting team members who can actively contribute. At a later stage, the subteam will open up to interested parties. However, the initial core group needs to focus on the progress of the subteam’s agenda to benefit the wider BSWG community and beyond.
+  

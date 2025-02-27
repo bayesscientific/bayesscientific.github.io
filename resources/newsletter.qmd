@@ -3,6 +3,10 @@ title: "KOL Lecture Series"
 toc: false
 ---
 
+## 2025
+
+- [2025 Issue 1](./../files/newsletter/BSWG_Newsletter_2025_Issue_1.pdf)
+
 ## 2024
 
-- [2024 Q4](./../files/newsletter/BSWG_Newsletter_2024_Issue_2_Year_End.pdf)
+- [2024 Year End](./../files/newsletter/BSWG_Newsletter_2024_Issue_2_Year_End.pdf)

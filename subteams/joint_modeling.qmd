@@ -1,10 +1,11 @@
 ---
 title: "Subteam: Joint modeling"
+toc: false
 ---
 
 # Leader information
 
-Larry Gould (larry_gould [at] merck [dot] com)
+Larry Gould (larry_gould \[at\] merck \[dot\] com)
 
 # Overview
 

@@ -2,6 +2,8 @@
 title: "KOL Lecture Series"
 ---
 
+You can watch the recordings of the entire KOL Lecture Series on our [YouTube channel](https://www.youtube.com/@diabayesianscientificworki4603/videos).
+
 ## 2023
 
 - Feb 2023: [Considerations for Bayesian Methods with Informative Priors presented by James Travis](../files/KOL/2023-02-cid-dia-bswg-webinar-feb-24.pptx)

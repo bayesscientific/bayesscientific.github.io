@@ -1,0 +1,14 @@
+---
+title: "Subteam: Real World Evidence (RWE)"
+toc: false
+editor: 
+  mode: source
+---
+
+# Leader information
+
+Xiang Zhang (Xiang.Zhang@cslbehring.com \[at\] cslbehring \[dot\] com)
+
+# Overview
+
+The inclusion of RWD/E to enhance regulatory decision making, especially for efficacy/effectiveness decision, has been advocated by FDA (and also other regulatory agencies such as EMA/MHRA/Health Canada/China NMPA) in recent years starting with the 21st Century Cures Act, PDUFA VI, and recently 2018 FDA’s RWE strategic framework. This subteam aims to leverage Bayesian methods to analyze RWD and generate RWE for regulatory decision making, which includes improving reproducibility for more credible and reliable RWE and the use of RWE in both clinical trials (e.g., hybrid control, synthetic control) and clinical planning (e.g., endpoint validation, targeting appropriate trial population).

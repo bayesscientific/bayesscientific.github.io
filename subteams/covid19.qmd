@@ -1,0 +1,14 @@
+---
+title: "Subteam: COVID-19"
+toc: false
+editor: 
+  mode: source
+---
+
+# Leader information
+
+Joan Buenconsejo (Joan.Buenconsejo \[at\] bms \[dot\] com) and Fanni Natanegara (natanegara_fanni@lilly.com \[at\] lilly \[dot\] com)
+
+# Overview
+
+This subteam has partnered with the Statistical Community to find statistical opportunities to accelerate the development of COVD-19 therapeutics by way of innovative trial designs, standardized clinical outcomes, core data elements, and data sharing to enable efficient decision making and bring safe and effective therapeutics to the market.
