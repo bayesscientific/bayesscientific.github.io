@@ -5,7 +5,7 @@ toc: false
 
 # Leader information
 
-Madhurima Majumder (madhurima.majumder \[at\] bayer \[dot\] com) and Carl DiCasoli (carl.dicasoli@cabalettabio.com \[at\] uchicago \[dot\] com)
+Madhurima Majumder (madhurima.majumder \[at\] bayer \[dot\] com) and Carl DiCasoli (carl.dicasoli \[at\] cabalettabio \[dot\] com)
 
 # Overview
 
