@@ -4,7 +4,6 @@ sidebar: false
 ---
 
 Bayesian Scientific Working Group\
-bayesianscientific\@gmail.com
-
-
+bayesianscientific\@gmail.com  
+[ASA Homepage](https://community.amstat.org/biop/workinggroups/bswg)
 
