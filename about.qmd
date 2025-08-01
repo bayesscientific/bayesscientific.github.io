@@ -9,7 +9,7 @@ toc: false
 
 ## Mission Statement
 
-The Bayesian Scientific Working Group (BSWG) was formed in 2011 with the vision to ensure that Bayesian methods are well-understood and broadly utilized for design and analysis throughout the medical product development process and to improve industrial, regulatory and economic decision making. The group is comprised of individuals from academia, industry and regulatory authorities. As Bayesian applications in medical product development are wide ranging, several sub-teams were formed to focus on various Bayesian topics such as safety, non-inferiority, prior specification, comparative effectiveness, joint modeling, program wide decision making, tools and education.
+The Bayesian Scientific Working Group (BSWG) was formed in 2011 with the vision to ensure that Bayesian methods are well-understood and broadly utilized for design and analysis throughout the medical product development process and to improve industrial, regulatory and economic decision making. The group is comprised of individuals from academia, industry and regulatory authorities. As Bayesian applications in medical product development are wide ranging, several sub-teams were formed to focus on various Bayesian topics such as safety, non-inferiority, prior specification, comparative effectiveness, joint modeling, program wide decision making, tools and education. As of 2025, we are officially organized within the [Biopharmaceutical Section](https://community.amstat.org/biop/home) of the [American Statistical Association (ASA)](https://www.amstat.org/).
 
 ## What is Bayesian Statistics?
 

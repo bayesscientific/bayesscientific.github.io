@@ -18,32 +18,32 @@ website:
             text: "Adaptive Design"
           - href: ./subteams/ai_ml_bayesian.qmd
             text: "AI, ML, and Bayesian"
-          - href: ./subteams/bayesian_preclinical.qmd
-            text: "Bayesian Preclinical/Discovery"
+          # - href: ./subteams/bayesian_preclinical.qmd
+            # text: "Bayesian Preclinical/Discovery"
           - href: ./subteams/benefit_risk.qmd
             text: "Benefit Risk"
           - href: ./subteams/best_practices.qmd
             text: "Best Practices"
           - href: ./subteams/covid19.qmd
             text: "COVID-19"
-          - href: ./subteams/dct.qmd
-            text: "DCTs"
+          # - href: ./subteams/dct.qmd
+            # text: "DCTs"
           - href: ./subteams/education.qmd
             text: "Education"
-          - href: ./subteams/joint_modeling.qmd
-            text: "Joint Modeling"
+          # - href: ./subteams/joint_modeling.qmd
+            # text: "Joint Modeling"
           - href: ./subteams/medical_outreach.qmd
             text: "Medical Outreach"
-          - href: ./subteams/medicine_adaptive.qmd
-            text: "Medicine Adaptive Pathway to Patients"
+          # - href: ./subteams/medicine_adaptive.qmd
+            # text: "Medicine Adaptive Pathway to Patients"
           - href: ./subteams/missing_data.qmd
             text: "Missing Data"
-          - href: ./subteams/nonclinical_cmc.qmd
-            text: "Nonclinical (CMC)"
+          # - href: ./subteams/nonclinical_cmc.qmd
+            # text: "Nonclinical (CMC)"
           - href: ./subteams/noninferiority.qmd
             text: "Non-inferiority"
-          - href: ./subteams/pediatrics.qmd
-            text: "Pediatrics/Small Populaion"
+          # - href: ./subteams/pediatrics.qmd
+            # text: "Pediatrics/Small Populaion"
           - href: ./subteams/historical_data.qmd
             text: "Prior/Historical Data"
           - href: ./subteams/reporting_tools.qmd
@@ -61,7 +61,7 @@ website:
       - href: ./resources/kol.qmd
         text: "KOL Lecture Series"
       - href: ./resources/newsletter.qmd
-        text: "Newsletter"
+        text: "Events & Newsletter"
       - Contact.qmd
     right: 
       - icon: github
